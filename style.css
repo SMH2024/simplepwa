@@ -78,6 +78,7 @@ code {
 	color: black;
 	font-family: monospace;
 	padding: 1px;
+	-webkit-user-select: auto;
 	user-select: all;
 }
 
